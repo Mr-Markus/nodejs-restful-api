@@ -1,0 +1,6 @@
+{
+  "env": {
+    "MONGO_CONNECTION_STRING": "mongodb+srv://node-rest-shop:myFirstApp2019!@node-rest-shop-pzozx.azure.mongodb.net/test?retryWrites=true&w=majority",
+    "JWT_KEY": "secret"
+  }
+}
